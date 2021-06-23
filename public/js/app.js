@@ -1,6 +1,3 @@
-console.log('client side javascript running');
-
-
 const weatherForm = document.querySelector('form');
 const input = document.querySelector('input')
 weatherForm.addEventListener('submit', (e) => {
